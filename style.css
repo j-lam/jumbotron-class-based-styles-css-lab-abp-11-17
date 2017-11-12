@@ -15,7 +15,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav { 
+header nav {
   float: right;
 }
 
@@ -49,15 +49,15 @@ h3#header {
   text-decoration: none;
   color: #868e96;
 }
-div.jumbotran{
+.div jumbotran{
   border-radius: 5px;
   background-color: #e9ecef;
   padding: 10px;
 }
-div.jumbotran h1{
+.div jumbotran h1{
   font-size: 60px;
 }
-div.jumbotran p{
+.div jumbotran p{
   font-size: 20px
   padding: 0 20px 0 40px;
   line-height: 40px;
